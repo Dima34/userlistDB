@@ -1,4 +1,4 @@
-{{
+[{
   "id": "3998",
   "name": "Jacky",
   "isOnline": true
@@ -11,4 +11,4 @@
   "name": "Stefan",
   "isOnline": false
 }
-}
+]
